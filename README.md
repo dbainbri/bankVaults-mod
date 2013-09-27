@@ -1,2 +1,2 @@
-Bank-Vaults
+bankVaults
 ===========
