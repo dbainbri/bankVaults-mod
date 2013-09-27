@@ -1,0 +1,17 @@
+[
+{
+  "modid": "BankVaults",
+  "name": "Bank Vaults",
+  "description": "Multi-Block Storage, with security and style.",
+  "version": "0.0.1",
+  "mcversion": "1.5.2",
+  "logoFile": "/bv.png",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["dbainbri88", "mrpaliani"],
+  "credits": "Code by dbainbri88. Textures by mrpaliani",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
