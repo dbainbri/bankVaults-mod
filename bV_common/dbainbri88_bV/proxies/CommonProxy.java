@@ -1,4 +1,4 @@
-package proxies;
+package dbainbri88_bV.proxies;
 
 public class CommonProxy {
 

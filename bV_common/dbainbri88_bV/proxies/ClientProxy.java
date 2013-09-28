@@ -1,6 +1,5 @@
-package proxies;
+package dbainbri88_bV.proxies;
 
-import proxies.CommonProxy;
 
 public class ClientProxy extends CommonProxy {
 

@@ -1,4 +1,4 @@
-package network;
+package dbainbri88_bV.network;
 
 import net.minecraft.network.INetworkManager;
 import net.minecraft.network.packet.Packet250CustomPayload;
